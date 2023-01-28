@@ -2,6 +2,8 @@
  * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
  */
 
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Fraunces:ital,wght@0,500;0,600;0,700;1,600&display=swap");
+
 body {
 	overflow-x:hidden;
 	padding-top:69.75px;
@@ -202,10 +204,16 @@ a.text-dark:hover {
 	background:#03a87c;
 	color:#fff !important;
 }
-.navbar-brand {
+/* .navbar-brand {
 	margin-right:2rem;
 	font-size:1.55rem;
     font-family:"Georgia","Times New Roman",serif;
+} */
+
+.navbar-brand {
+	margin-right:2rem;
+	font-size:1.55rem;
+    font-family:"Fraunces","Times New Roman",serif;
 }
 .dropdown-item {
 	font-weight:400;

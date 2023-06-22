@@ -2,7 +2,7 @@
 title: "Truci Rock Fest dal 9 al 11 giugno 9 band live a Dossobuono (Verona)"
 excerpt: "Some description"
 publishDate: "2023-06-02T11:39:36.050Z"
-image: "https://images.unsplash.com/[IMAGE-URL]"
+image: "_images/supernova.jpg"
 category: "music"
 draft: true
 author: "ninetto-guerra"

@@ -26,4 +26,10 @@ export const authors: Props[] = [
     image: "./src/assets/authors/erika.webp",
     bio: "Erika Oliver is a successful entrepreuner. She is the founder of Acme Inc, a bootstrapped business that builds affordable SaaS tools for local news, indie publishers, and other small businesses.",
   },
+  {
+    name: "Ninetto Guerra",
+    slug: "ninetto-guerra",
+    image: "./src/assets/authors/mario.webp",
+    bio: "Ninetto is a Staff Engineer specialising in Frontend at Vercel, as well as being a co-founder of Acme and the content management system Sanity. Prior to this, he was a Senior Engineer at Apple.",
+  },
 ];

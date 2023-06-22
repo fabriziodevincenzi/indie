@@ -4,7 +4,6 @@ excerpt: "Some description"
 publishDate: "2023-06-02T11:39:36.050Z"
 image: "_images/supernova.jpg"
 category: "music"
-draft: true
 author: "ninetto-guerra"
 tags: [live, festival estivi]
 ---
